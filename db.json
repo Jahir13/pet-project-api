@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com"
+      "name": "Jahir Rocha",
+      "email": "jrocha@example.com"
     },
     {
       "id": 2,
-      "name": "Jane Doe",
-      "email": "jane@example.com"
+      "name": "Juan Perez",
+      "email": "jperez@example.com"
     }
   ]
 }
